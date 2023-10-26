@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized | Nabilária</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Agência Imobiliária</description>
+	<lastBuildDate>Fri, 04 Mar 2016 14:13:14 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/nabilaria.co.mz/wp-content/uploads/2021/07/Nabilaria-Icon-1.png?fit=32%2C27&#038;ssl=1</url>
+	<title>Uncategorized | Nabilária</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">195454447</site>	<item>
+		<title>Comprar casa custa menos do que arrendar em todos os concelhos do país</title>
+		<link>/comprar-casa-custa-menos-do-que-arrendar-em-todos-os-concelhos-do-pais/</link>
+					<comments>/comprar-casa-custa-menos-do-que-arrendar-em-todos-os-concelhos-do-pais/#respond</comments>
+		
+		<dc:creator><![CDATA[Manuel]]></dc:creator>
+		<pubDate>Fri, 04 Mar 2016 14:13:14 +0000</pubDate>
+				<category><![CDATA[Compra de imóveis]]></category>
+		<category><![CDATA[Imobiliária]]></category>
+		<category><![CDATA[Localização]]></category>
+		<category><![CDATA[Preço]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://stage.wpresidence.net/?p=18001</guid>
+
+					<description><![CDATA[<p>Comprar casa custa entre 14% a 61% menos do que arrendar ao mês na mesma zona. Renda média de Lisboa são 1.170 euros. Comprar casa exige “menor esforço financeiro” do que arrendar “em todos os concelhos do país”, de acordo com um estudo da consultora Century 21, sobre a acessibilidade da habitação em Portugal. Tendo por base dados recolhidos e analisados pela Confidencial Imobiliário ...</p>
+<p>The post <a href="/comprar-casa-custa-menos-do-que-arrendar-em-todos-os-concelhos-do-pais/">Comprar casa custa menos do que arrendar em todos os concelhos do país</a> first appeared on <a href="/">Nabilária</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Comprar casa custa entre 14% a 61% menos do que arrendar ao mês na mesma zona. Renda média de Lisboa são 1.170 euros.</p>
+<p>Comprar casa exige “menor esforço financeiro” do que arrendar “em todos os concelhos do país”, de acordo com um estudo da consultora Century 21, sobre a acessibilidade da habitação em Portugal.</p>
+<p>Tendo por base dados recolhidos e analisados pela Confidencial Imobiliário e assumindo uma habitação de 90 metros quadrados, a Century 21 concluiu que adquirir uma casa “implica um encargo mensal entre 14% a 61% inferior ao valor mensal do arrendamento praticado na mesma zona, incluindo em mercados muito valorizados, como Lisboa e Porto”, onde a diferença se situa em respetivamente em -14% e -30%, sendo que em Faro é de -26%.<br />
+O estudo teve ainda por base uma taxa de esforço mensal de 33% das famílias para aquisição de habitação como sendo o máximo indicado e descobriu que “os cinco concelhos com a maior taxa de esforço do país para aquisição de habitação são Lisboa – onde este indicador atinge os 58%- seguida de Lagos, Loulé, Tavira e Albufeira”. A tendência é explicada pelo “evidente desequilíbrio entre a oferta e a procura de habitação na capital”.<br />
+No entanto no Algarve, “a conjugação da pressão dos preços dos imóveis nos centros turísticos com os rendimentos familiares mais baixos do país, que se verificam precisamente nestes quatro concelhos, originam taxas de esforço para aquisição de casa superiores a 50%”.</p><p>The post <a href="/comprar-casa-custa-menos-do-que-arrendar-em-todos-os-concelhos-do-pais/">Comprar casa custa menos do que arrendar em todos os concelhos do país</a> first appeared on <a href="/">Nabilária</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/comprar-casa-custa-menos-do-que-arrendar-em-todos-os-concelhos-do-pais/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18001</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mapulene | Nabilária</title>
+	<atom:link href="/area/mapulene/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Agência Imobiliária</description>
+	<lastBuildDate>Thu, 06 Jul 2023 10:58:43 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/nabilaria.co.mz/wp-content/uploads/2021/07/Nabilaria-Icon-1.png?fit=32%2C27&#038;ssl=1</url>
+	<title>Mapulene | Nabilária</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">195454447</site>	<item>
+		<title>Vende-se apartamento T3 em Mapulene</title>
+		<link>/properties/vende-se-apartamento-t3-em-mapulene/</link>
+					<comments>/properties/vende-se-apartamento-t3-em-mapulene/#respond</comments>
+		
+		<dc:creator><![CDATA[WP Residence Team]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2022 14:21:41 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=estate_property#038;p=22025</guid>
+
+					<description><![CDATA[<p>Vende-se apartamento T3 em Mapulene, 0KM, Sala ampla, 1 suit, 1WC geral, Quartos com guarda-fatos, Cozinha equipada (fogão, forno, geleia e microondas embutido), 2 varandas, Estacionamento para 2 viaturas.</p>
+<p>The post <a href="/properties/vende-se-apartamento-t3-em-mapulene/">Vende-se apartamento T3 em Mapulene</a> first appeared on <a href="/">Nabilária</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Vende-se apartamento T3 em Mapulene, 0KM, Sala ampla, 1 suit, 1WC geral, Quartos com guarda-fatos, Cozinha equipada (fogão, forno, geleia e microondas embutido), 2 varandas, Estacionamento para 2 viaturas.</p><p>The post <a href="/properties/vende-se-apartamento-t3-em-mapulene/">Vende-se apartamento T3 em Mapulene</a> first appeared on <a href="/">Nabilária</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>/properties/vende-se-apartamento-t3-em-mapulene/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">22025</post-id>	</item>
+	</channel>
+</rss>
