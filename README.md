@@ -4,7 +4,11 @@ Welcome to Nabilaria, your go-to Real Estate Agency's website! This project has 
 
 ![Nabilária Web Application](https://manueldinisjunior.com/wp-content/uploads/2023/09/image-12-1024x438.png)
 
-## Design and Images
+![Featured Proprerties](https://manueldinisjunior.com/wp-content/uploads/2023/09/image-13-800x600.png)
+
+![Property Type](https://manueldinisjunior.com/wp-content/uploads/2023/09/image-14-800x600.png)
+
+## Proprierty Images Curation
 The design and image elements of this website were expertly crafted by our dedicated team at XIPEFO CREATIVE AGENCY, ensuring a visually appealing and professional appearance.
 
 ## Plugins Overview
