@@ -49,3 +49,9 @@ We've incorporated various plugins to enhance the functionality and user-friendl
 17. **Gutenberg Blocks:** Extend the functionality of the WordPress block editor with additional blocks and features.
 
 Please feel free to explore and make the most of these plugins to enhance your experience on the Nabilaria website. If you have any questions or need assistance, don't hesitate to contact our friendly team of agents. Happy browsing!
+
+## Author
+
+- [Web-Portfolio](https://manueldinisjunior.com)
+- [LinkedIn](https://linkedin.com/in/manueldinisjunior.com)
+- [Twitter](https://www.twitter.com/manueldinisjr)
