@@ -5,19 +5,19 @@ Welcome to Nabilaria, your premier destination for real estate services! This we
 ## Project Related to ALX Webstack: Portfolio Project
 - Software Engineering - Backend Specialization
 
-# Homw
+<br>
 
 <p align="center"> 
   <img alt="Nabilária Web Application" src="https://manueldinisjunior.com/wp-content/uploads/2023/09/image-12-1024x438.png" />
 </p>
 
-# Proprierties
+<br>
 
 <p align="center">
   <img alt="Featured Properties" src="https://manueldinisjunior.com/wp-content/uploads/2023/09/image-13-800x600.png" />
 </p>
 
-# Typology
+<br>
 
 <p align="center"> 
   <img alt="Property Type" src="https://manueldinisjunior.com/wp-content/uploads/2023/09/image-14-800x600.png" />
