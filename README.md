@@ -99,5 +99,5 @@
 
 ## Author
 - [Web Portfolio](https://manueldinisjunior.com)
-- [LinkedIn](https://linkedin.com/in/manueldinisjunior.com)
+- [LinkedIn](https://linkedin.com/in/manueldinisjunior)
 - [Twitter](https://www.twitter.com/manueldinisjr)
