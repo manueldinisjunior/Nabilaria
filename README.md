@@ -101,3 +101,4 @@
 - [Web Portfolio](https://manueldinisjunior.com)
 - [LinkedIn](https://linkedin.com/in/manueldinisjunior)
 - [Twitter](https://www.twitter.com/manueldinisjr)
+- [WhatsApp](https://wa.me/258874013494)
