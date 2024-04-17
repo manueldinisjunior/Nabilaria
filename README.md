@@ -2,7 +2,7 @@
 
 - Welcome to Nabilaria, your premier destination for real estate services! This website, powered by WordPress as a Content Management System (CMS), showcases our extensive property listings with a focus on user experience, thanks to meticulous styling with CSS and JavaScript.
 
-## Project Related to ALX AFRICA's Webstack: Portfolio Project Task
+## Project Related to ALX AFRICA's Web stack: Portfolio Project Task
 
 [**Software Engineering - Backend Specialization**](https://www.alxafrica.com/back-end-web-development/)
 
@@ -41,7 +41,7 @@
 - Collaboration challenges between the client's vision and the developer's ideas were navigated smoothly. The final choice aligned with the client's preference, resulting in an appealing landing page.
 
 ### 5. Field Hiding
-- Incorporated functionality to hide specific fields, providing a streamlined and focused user interaction.
+- Incorporated functionality to hide specific fields, providing streamlined and focused user interaction.
 
 ## Plugins Overview
 - We've integrated various plugins to elevate the functionality and user-friendliness of Nabilaria. Explore each plugin's purpose:
